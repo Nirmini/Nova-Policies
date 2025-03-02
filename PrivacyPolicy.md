@@ -1,7 +1,7 @@
 ## Nova Privacy Policy
 ---
 What We Do with Your Data:
-- Verify ROBLOX Account: We use your data to confirm and link your ROBLOX account to Nova.
+- Verify ROBLOX Account: We use your provided ROBLOX account's ID to link your ROBLOX and Discord accounts in Nova.
 - Provide Birthday Notifications: We use your birthdate to send birthday-related notifications.
 
 What is Stored:
