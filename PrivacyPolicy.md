@@ -1,5 +1,9 @@
 ## Nova Privacy Policy
 ---
+
+> [!NOTE]
+> Nirmini does NOT profile users nor share information about your server, nor its general bans, moderation, activity, and operations.
+
 What We Do with Your Data:
 - Verify ROBLOX Account: We use your provided ROBLOX account's ID to link your ROBLOX and Discord accounts in Nova.
 - Provide Birthday Notifications: We use your birthdate to send birthday-related notifications.
